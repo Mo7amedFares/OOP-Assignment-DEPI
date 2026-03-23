@@ -1,0 +1,15 @@
+C:\Users\msale\source\repos\OOP-Assignment-DEPI\ThirdProject\bin\Debug\net10.0\ThirdProject.exe
+C:\Users\msale\source\repos\OOP-Assignment-DEPI\ThirdProject\bin\Debug\net10.0\ThirdProject.deps.json
+C:\Users\msale\source\repos\OOP-Assignment-DEPI\ThirdProject\bin\Debug\net10.0\ThirdProject.runtimeconfig.json
+C:\Users\msale\source\repos\OOP-Assignment-DEPI\ThirdProject\bin\Debug\net10.0\ThirdProject.dll
+C:\Users\msale\source\repos\OOP-Assignment-DEPI\ThirdProject\bin\Debug\net10.0\ThirdProject.pdb
+C:\Users\msale\source\repos\OOP-Assignment-DEPI\ThirdProject\obj\Debug\net10.0\ThirdProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msale\source\repos\OOP-Assignment-DEPI\ThirdProject\obj\Debug\net10.0\ThirdProject.AssemblyInfoInputs.cache
+C:\Users\msale\source\repos\OOP-Assignment-DEPI\ThirdProject\obj\Debug\net10.0\ThirdProject.AssemblyInfo.cs
+C:\Users\msale\source\repos\OOP-Assignment-DEPI\ThirdProject\obj\Debug\net10.0\ThirdProject.csproj.CoreCompileInputs.cache
+C:\Users\msale\source\repos\OOP-Assignment-DEPI\ThirdProject\obj\Debug\net10.0\ThirdProject.sourcelink.json
+C:\Users\msale\source\repos\OOP-Assignment-DEPI\ThirdProject\obj\Debug\net10.0\ThirdProject.dll
+C:\Users\msale\source\repos\OOP-Assignment-DEPI\ThirdProject\obj\Debug\net10.0\refint\ThirdProject.dll
+C:\Users\msale\source\repos\OOP-Assignment-DEPI\ThirdProject\obj\Debug\net10.0\ThirdProject.pdb
+C:\Users\msale\source\repos\OOP-Assignment-DEPI\ThirdProject\obj\Debug\net10.0\ThirdProject.genruntimeconfig.cache
+C:\Users\msale\source\repos\OOP-Assignment-DEPI\ThirdProject\obj\Debug\net10.0\ref\ThirdProject.dll

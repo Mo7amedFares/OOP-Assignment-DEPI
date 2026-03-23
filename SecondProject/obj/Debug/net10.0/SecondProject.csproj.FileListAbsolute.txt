@@ -1,0 +1,15 @@
+C:\Users\msale\source\repos\OOP-Assignment-DEPI\SecondProject\bin\Debug\net10.0\SecondProject.exe
+C:\Users\msale\source\repos\OOP-Assignment-DEPI\SecondProject\bin\Debug\net10.0\SecondProject.deps.json
+C:\Users\msale\source\repos\OOP-Assignment-DEPI\SecondProject\bin\Debug\net10.0\SecondProject.runtimeconfig.json
+C:\Users\msale\source\repos\OOP-Assignment-DEPI\SecondProject\bin\Debug\net10.0\SecondProject.dll
+C:\Users\msale\source\repos\OOP-Assignment-DEPI\SecondProject\bin\Debug\net10.0\SecondProject.pdb
+C:\Users\msale\source\repos\OOP-Assignment-DEPI\SecondProject\obj\Debug\net10.0\SecondProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msale\source\repos\OOP-Assignment-DEPI\SecondProject\obj\Debug\net10.0\SecondProject.AssemblyInfoInputs.cache
+C:\Users\msale\source\repos\OOP-Assignment-DEPI\SecondProject\obj\Debug\net10.0\SecondProject.AssemblyInfo.cs
+C:\Users\msale\source\repos\OOP-Assignment-DEPI\SecondProject\obj\Debug\net10.0\SecondProject.csproj.CoreCompileInputs.cache
+C:\Users\msale\source\repos\OOP-Assignment-DEPI\SecondProject\obj\Debug\net10.0\SecondProject.sourcelink.json
+C:\Users\msale\source\repos\OOP-Assignment-DEPI\SecondProject\obj\Debug\net10.0\SecondProject.dll
+C:\Users\msale\source\repos\OOP-Assignment-DEPI\SecondProject\obj\Debug\net10.0\refint\SecondProject.dll
+C:\Users\msale\source\repos\OOP-Assignment-DEPI\SecondProject\obj\Debug\net10.0\SecondProject.pdb
+C:\Users\msale\source\repos\OOP-Assignment-DEPI\SecondProject\obj\Debug\net10.0\SecondProject.genruntimeconfig.cache
+C:\Users\msale\source\repos\OOP-Assignment-DEPI\SecondProject\obj\Debug\net10.0\ref\SecondProject.dll
